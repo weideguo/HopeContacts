@@ -1,5 +1,5 @@
 # HopeContacts
-## this is for [hopestudio](http://ce.sysu.edu.cn/hope/) by [wdg](https://github.com/zouzhicun)
+## write in [sysu](http://www.sysu.edu.cn/)
 a simple android app, implement CRUD.
 
 program in java.
